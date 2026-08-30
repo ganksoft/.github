@@ -39,9 +39,3 @@ Old hardware running even older hardware.
 - **[NeoPocott DC](https://ganksoft.com/games/npdc/)** — Dreamcast — A NeoGeo Pocket Color emulator for the Dreamcast.
 - **[DreamPac](https://ganksoft.com/games/dreampac/)** — Dreamcast — A Pacman emulator for your Sega Dreamcast.
 - **[Annoid](https://ganksoft.com/games/annoid/)** — Windows — An Arkanoid emulator for your PC.
-
----
- 
-<div align="center">
-  <a href="https://github.com/sponsors/ganksoft">💖 Sponsor Ganksoft</a>
-</div>
